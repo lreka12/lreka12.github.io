@@ -1,0 +1,60 @@
+main {font-family: 'Rajdhani', sans-serif;
+      margin: auto;
+      width: 750px}
+
+
+
+header {font-family: 'Lobster', cursive;
+position: relative;
+margin: auto;
+}
+
+
+h1 {background-color: black;
+color: white;
+padding: 10px 30px 30px 30px;
+font-family: 'Lobster', cursive;
+margin: 50px -30px 30px -30px;}
+
+ul {list-style-type: square;}
+
+h3 {font-variant-caps: all-small-caps;
+    font-size: 35px;
+    }
+
+h4 {margin-bottom: 0;
+    font-variant-caps: petite-caps;
+    font-size: 20px;}
+
+hr.solid {
+  border-top: 3px solid black;}
+
+h5 {font-style: italic;
+  margin-top: 0;}
+  
+  
+#hi {position: absolute;
+  margin-top: -100px;
+  margin-left: 100px;}
+
+#anakin {font-size: 50px;
+  position: absolute;
+        padding:  0;
+        margin-top: -80px;
+margin-left: 100px;}
+  
+img {position: relativ;
+height: 300px;
+margin-top: 0;}
+
+div {margin: 50px 60px 30px 60px}
+
+blockquote::before {
+  content:'”';
+  position: relative;
+  font-size: 100px;
+  color: white;
+   top: -20px;
+  left: -30px;
+  font-size: 90px;
+}
